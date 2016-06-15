@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lamawithonel/puppet-pam_pkcs11.png?label=ready&title=Ready)](https://waffle.io/lamawithonel/puppet-pam_pkcs11)
 # pam_pkcs11
 
 [![Build Status](https://travis-ci.org/lamawithonel/puppet-pam_pkcs11.svg?branch=master)](https://travis-ci.org/lamawithonel/puppet-pam_pkcs11)
